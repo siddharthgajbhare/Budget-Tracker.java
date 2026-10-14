@@ -129,4 +129,4 @@ java Main
 
 ## 📄 License
 
-This project is intended for educational and personal use. A license can be added to define permissions for reuse and distribution.
+This project is intended for educational and personal use. A license can be added to define permissions for reuse and distribution..
